@@ -62,7 +62,7 @@
 #     print('-----------------------------------------')
 
 # intro(First_Name='Rishabh', Last_Name='Pundir', Age='25', Phone='6978565156522')
-# intro(First_Name='Singh', Last_Name='Singh', Dob='14 Apr 1998', Email='SachinSingh62@xyz.com')
+# intro(First_Name='Sachin', Last_Name='Singh', Dob='14 Apr 1998', Email='SachinSingh62@xyz.com')
 
 
 # # example #2
