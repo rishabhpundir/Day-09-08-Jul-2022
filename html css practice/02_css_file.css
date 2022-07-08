@@ -1,0 +1,54 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap");
+*{
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+}
+
+.container{
+    width: 900px;
+    border: 3px solid red;
+    border-radius: 40px;
+    margin: 20px auto;
+    background-color: antiquewhite;
+}
+
+.item{
+    border: 3px solid yellowgreen;
+    border-radius: 25px;
+    margin: 10px 15px;
+    padding: 10px 20px;
+    background: rgb(162, 10, 10);
+}
+
+#fruits{
+    float: left;
+    width: 46%;
+    clear: right;
+}
+
+#computer{
+    float: left;
+    width: 46%;
+}
+
+#stationary{
+    /* float: left; */
+    width: 96%;
+    clear: left;
+    /* clear: both; */
+}
+
+p, h2{
+    text-align: justify;
+}
+
+h1{
+    margin: auto;
+    width: 350px;
+    color: black;
+}
